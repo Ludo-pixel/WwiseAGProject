@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{8AD053FF-3307-44EA-ADF4-C0C9245BD72C}" SchemaVersion="110">
+	<InteractiveMusic>
+		<WorkUnit Name="Toto Work Unit" ID="{8AD053FF-3307-44EA-ADF4-C0C9245BD72C}" PersistMode="Standalone"/>
+	</InteractiveMusic>
+</WwiseDocument>
