@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{A904C79D-2B29-4D8D-831D-90506AF43514}" SchemaVersion="110">
 	<GameParameters>
-		<WorkUnit Name="Default Work Unit" ID="{A904C79D-2B29-4D8D-831D-90506AF43514}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{A904C79D-2B29-4D8D-831D-90506AF43514}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Player_MovementSpeed" ID="{89AC586D-97F9-463C-956E-A7D3B9469DF7}"/>
+			</ChildrenList>
+		</WorkUnit>
 	</GameParameters>
 </WwiseDocument>
