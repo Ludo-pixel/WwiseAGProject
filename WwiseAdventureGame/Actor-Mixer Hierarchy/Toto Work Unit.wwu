@@ -57,7 +57,7 @@
 																		<PointList>
 																			<Point>
 																				<XPos>0</XPos>
-																				<YPos>-0</YPos>
+																				<YPos>0</YPos>
 																				<Flags>5</Flags>
 																			</Point>
 																			<Point>
@@ -182,7 +182,7 @@
 																		<PointList>
 																			<Point>
 																				<XPos>0</XPos>
-																				<YPos>-0</YPos>
+																				<YPos>0</YPos>
 																				<Flags>5</Flags>
 																			</Point>
 																			<Point>
@@ -395,7 +395,7 @@
 																		<PointList>
 																			<Point>
 																				<XPos>0</XPos>
-																				<YPos>-0</YPos>
+																				<YPos>0</YPos>
 																				<Flags>5</Flags>
 																			</Point>
 																			<Point>
@@ -464,7 +464,7 @@
 																		<PointList>
 																			<Point>
 																				<XPos>0</XPos>
-																				<YPos>-0</YPos>
+																				<YPos>0</YPos>
 																				<Flags>5</Flags>
 																			</Point>
 																			<Point>
@@ -499,9 +499,6 @@
 					<ChildrenList>
 						<ActorMixer Name="AmbientEmitters" ID="{EB2D9834-A5DF-40A2-8281-79312A9CB637}" ShortID="458186382">
 							<ReferenceList>
-								<Reference Name="Attenuation">
-									<ObjectRef Name="Atenuacion" ID="{39B733C5-D73F-48AB-9766-7FC60A9470E6}" WorkUnitID="{E786A506-23E2-42C4-A54B-4B4CCB47B7AA}"/>
-								</Reference>
 								<Reference Name="Conversion">
 									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{995DBE58-86E5-4A96-85D3-EB7A1A08E35C}"/>
 								</Reference>
@@ -521,6 +518,9 @@
 										</Property>
 									</PropertyList>
 									<ReferenceList>
+										<Reference Name="Attenuation">
+											<ObjectRef Name="Short" ID="{5C0A7F90-8A51-42C9-9EE2-A63759CC7F75}" WorkUnitID="{E786A506-23E2-42C4-A54B-4B4CCB47B7AA}"/>
+										</Reference>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{995DBE58-86E5-4A96-85D3-EB7A1A08E35C}"/>
 										</Reference>
@@ -542,7 +542,13 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_ForestBirds" ID="{DE6837DF-7CC0-4954-A18E-ABCD818B23F4}" ShortID="278873939">
+									<PropertyList>
+										<Property Name="OverridePositioning" Type="bool" Value="True"/>
+									</PropertyList>
 									<ReferenceList>
+										<Reference Name="Attenuation">
+											<ObjectRef Name="Medium" ID="{1B2DD155-5554-4D34-AFC4-5F1075B58FAB}" WorkUnitID="{E786A506-23E2-42C4-A54B-4B4CCB47B7AA}"/>
+										</Reference>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{995DBE58-86E5-4A96-85D3-EB7A1A08E35C}"/>
 										</Reference>
@@ -564,7 +570,13 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_Lava" ID="{2AC993CF-7C5B-4605-9CA4-0C1ECAB9E759}" ShortID="306472951">
+									<PropertyList>
+										<Property Name="OverridePositioning" Type="bool" Value="True"/>
+									</PropertyList>
 									<ReferenceList>
+										<Reference Name="Attenuation">
+											<ObjectRef Name="Medium" ID="{1B2DD155-5554-4D34-AFC4-5F1075B58FAB}" WorkUnitID="{E786A506-23E2-42C4-A54B-4B4CCB47B7AA}"/>
+										</Reference>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{995DBE58-86E5-4A96-85D3-EB7A1A08E35C}"/>
 										</Reference>
@@ -586,7 +598,13 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_Torch" ID="{C779F875-BA35-4557-B9A8-015928726E89}" ShortID="150597107">
+									<PropertyList>
+										<Property Name="OverridePositioning" Type="bool" Value="True"/>
+									</PropertyList>
 									<ReferenceList>
+										<Reference Name="Attenuation">
+											<ObjectRef Name="Short" ID="{5C0A7F90-8A51-42C9-9EE2-A63759CC7F75}" WorkUnitID="{E786A506-23E2-42C4-A54B-4B4CCB47B7AA}"/>
+										</Reference>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{995DBE58-86E5-4A96-85D3-EB7A1A08E35C}"/>
 										</Reference>
@@ -608,7 +626,13 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_Water_River" ID="{F8274CA0-9FA0-4922-BCE0-B8B48389D074}" ShortID="531088718">
+									<PropertyList>
+										<Property Name="OverridePositioning" Type="bool" Value="True"/>
+									</PropertyList>
 									<ReferenceList>
+										<Reference Name="Attenuation">
+											<ObjectRef Name="Long" ID="{75A1EA9E-DD2E-4C58-AF52-FF4975AC0C6C}" WorkUnitID="{E786A506-23E2-42C4-A54B-4B4CCB47B7AA}"/>
+										</Reference>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{995DBE58-86E5-4A96-85D3-EB7A1A08E35C}"/>
 										</Reference>
@@ -630,7 +654,13 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_Waterfall" ID="{03D48740-873A-405C-9D98-3B1D36D926E7}" ShortID="196334136">
+									<PropertyList>
+										<Property Name="OverridePositioning" Type="bool" Value="True"/>
+									</PropertyList>
 									<ReferenceList>
+										<Reference Name="Attenuation">
+											<ObjectRef Name="Far" ID="{0CBEA0A1-AF7D-4344-A545-F630152401C4}" WorkUnitID="{E786A506-23E2-42C4-A54B-4B4CCB47B7AA}"/>
+										</Reference>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{995DBE58-86E5-4A96-85D3-EB7A1A08E35C}"/>
 										</Reference>
@@ -652,7 +682,13 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_WindMillBlade_01" ID="{F96362FE-1171-4C1F-8666-A3FD7F75AFEB}" ShortID="511846931">
+									<PropertyList>
+										<Property Name="OverridePositioning" Type="bool" Value="True"/>
+									</PropertyList>
 									<ReferenceList>
+										<Reference Name="Attenuation">
+											<ObjectRef Name="Medium" ID="{1B2DD155-5554-4D34-AFC4-5F1075B58FAB}" WorkUnitID="{E786A506-23E2-42C4-A54B-4B4CCB47B7AA}"/>
+										</Reference>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{995DBE58-86E5-4A96-85D3-EB7A1A08E35C}"/>
 										</Reference>
@@ -674,7 +710,13 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_WindMillBlade_02" ID="{CEC7619D-A46E-4B3F-9BEB-C872F094EA47}" ShortID="687563184">
+									<PropertyList>
+										<Property Name="OverridePositioning" Type="bool" Value="True"/>
+									</PropertyList>
 									<ReferenceList>
+										<Reference Name="Attenuation">
+											<ObjectRef Name="Medium" ID="{1B2DD155-5554-4D34-AFC4-5F1075B58FAB}" WorkUnitID="{E786A506-23E2-42C4-A54B-4B4CCB47B7AA}"/>
+										</Reference>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{995DBE58-86E5-4A96-85D3-EB7A1A08E35C}"/>
 										</Reference>
@@ -696,7 +738,13 @@
 									</ActiveSourceList>
 								</Sound>
 								<Sound Name="BAS_WindMillBlade_03" ID="{83DBC7AD-0C44-4901-8AF3-A8EF441281B2}" ShortID="774852094">
+									<PropertyList>
+										<Property Name="OverridePositioning" Type="bool" Value="True"/>
+									</PropertyList>
 									<ReferenceList>
+										<Reference Name="Attenuation">
+											<ObjectRef Name="Medium" ID="{1B2DD155-5554-4D34-AFC4-5F1075B58FAB}" WorkUnitID="{E786A506-23E2-42C4-A54B-4B4CCB47B7AA}"/>
+										</Reference>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{995DBE58-86E5-4A96-85D3-EB7A1A08E35C}"/>
 										</Reference>
@@ -718,7 +766,13 @@
 									</ActiveSourceList>
 								</Sound>
 								<RandomSequenceContainer Name="Waterdrops" ID="{E8B7AD68-8581-4AC6-9A01-DD91678681AF}" ShortID="231566496">
+									<PropertyList>
+										<Property Name="OverridePositioning" Type="bool" Value="True"/>
+									</PropertyList>
 									<ReferenceList>
+										<Reference Name="Attenuation">
+											<ObjectRef Name="Short" ID="{5C0A7F90-8A51-42C9-9EE2-A63759CC7F75}" WorkUnitID="{E786A506-23E2-42C4-A54B-4B4CCB47B7AA}"/>
+										</Reference>
 										<Reference Name="Conversion">
 											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{995DBE58-86E5-4A96-85D3-EB7A1A08E35C}"/>
 										</Reference>
