@@ -4,6 +4,7 @@
 		<WorkUnit Name="Default Work Unit" ID="{A904C79D-2B29-4D8D-831D-90506AF43514}" PersistMode="Standalone">
 			<ChildrenList>
 				<GameParameter Name="Player_MovementSpeed" ID="{89AC586D-97F9-463C-956E-A7D3B9469DF7}"/>
+				<GameParameter Name="Time_of_Day" ID="{D9842EA4-C08F-43C8-95FE-6F0C1881C679}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</GameParameters>

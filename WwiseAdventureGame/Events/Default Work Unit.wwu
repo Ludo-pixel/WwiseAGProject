@@ -14,6 +14,17 @@
 						</Action>
 					</ChildrenList>
 				</Event>
+				<Event Name="Player_WeaponImpact" ID="{EB8BE6F1-5F32-4DF1-9A22-6DD1CE57BE99}">
+					<ChildrenList>
+						<Action Name="" ID="{7E5A65D0-2217-438C-A3EC-E24BAF3447D7}" ShortID="312221406">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Weapon_Impacts" ID="{72594F86-B71C-4523-8CE5-C1F86B9A7849}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

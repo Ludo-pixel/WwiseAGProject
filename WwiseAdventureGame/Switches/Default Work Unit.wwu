@@ -13,6 +13,22 @@
 						<Switch Name="Tile" ID="{5C0CEDB4-5099-47B3-B179-F94C4F58A924}"/>
 						<Switch Name="Water" ID="{61508823-81DE-4469-8C19-7355DE057583}"/>
 						<Switch Name="Wood" ID="{ED8BEE02-A7F3-42BE-AB6E-FC022C7ADB64}"/>
+						<Switch Name="Barrel" ID="{FD120790-15D8-47DA-A587-D789EF898163}"/>
+						<Switch Name="Crate" ID="{8CC15E84-E6EF-4F70-BAA3-0043165939DC}"/>
+						<Switch Name="Dirt" ID="{50519232-F76D-4062-A5EA-CB1C74507513}"/>
+						<Switch Name="Enemy_EvilCrawler" ID="{0F9738F2-E179-4332-8EEC-CBD6F1896E77}"/>
+						<Switch Name="Enemy_EvilHead" ID="{080DAF66-394B-473A-816A-9468F8860AB5}"/>
+						<Switch Name="Enemy_EvilSpitPlant" ID="{3C592914-A042-435E-A5D3-EB6D2F20505A}"/>
+						<Switch Name="Leaves" ID="{49029A02-5539-4B95-B1AC-5951EAA315AC}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Player_WeaponType" ID="{35B7AA78-75DF-4175-BBC6-DE432391457C}">
+					<ChildrenList>
+						<Switch Name="Sword" ID="{5C7C1F9C-31EA-4D18-BC9C-79063B7C84D4}"/>
+						<Switch Name="Dagger" ID="{5F1399BE-AF14-4F9F-B746-CB928E407C75}"/>
+						<Switch Name="Axe" ID="{C030484C-8DD7-428B-AB66-145054ADC13B}"/>
+						<Switch Name="Pickaxe" ID="{C107B210-31BD-47A0-91FF-FA221FBC01AF}"/>
+						<Switch Name="Hammer" ID="{5D5E745A-59D3-4F6D-8F83-1965AB61A3C5}"/>
 					</ChildrenList>
 				</SwitchGroup>
 			</ChildrenList>
