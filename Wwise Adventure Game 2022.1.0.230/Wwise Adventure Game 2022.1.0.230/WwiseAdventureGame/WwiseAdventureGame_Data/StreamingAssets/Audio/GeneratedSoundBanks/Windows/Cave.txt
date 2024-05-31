@@ -1,0 +1,18 @@
+Event	ID	Name			Wwise Object Path	Notes
+	448719855	Destruction_Crystal_Destroy			\Default Work Unit\Destruction\Destruction_Crystal_Destroy	
+	1331382810	Ambient_Region_Cave			\Default Work Unit\Ambient\Ambient_Region_Cave	
+	2644063196	Ambient_WaterDrop			\Default Work Unit\3DEmitters\One-shot\Ambient_WaterDrop	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1333239961	MenuSlider_Master_Volume			\Default Work Unit\MenuSlider_Master_Volume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	432291700	BAS_WaterDrops_05	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_WaterDrops_05_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientEmitters\One-Shot\Waterdrops\BAS_WaterDrops_05		43296
+	448109765	BAS_WaterDrops_03	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_WaterDrops_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientEmitters\One-Shot\Waterdrops\BAS_WaterDrops_03		51296
+	460029154	BAS_Crystals_Destroy	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_Crystals_Destroy_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\Destruction\Crystals\BAS_Crystals_Destroy		191808
+	677585057	BAS_amb_cave_background_LP	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_amb_cave_background_LP_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientBackground\BAS_amb_cave_background_LP		14786892
+	755919748	BAS_WaterDrops_04	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_WaterDrops_04_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientEmitters\One-Shot\Waterdrops\BAS_WaterDrops_04		57440
+	880174293	BAS_WaterDrops_06	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_WaterDrops_06_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientEmitters\One-Shot\Waterdrops\BAS_WaterDrops_06		77856
+	964415718	BAS_WaterDrops_01	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_WaterDrops_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientEmitters\One-Shot\Waterdrops\BAS_WaterDrops_01		28768
+	1032225915	BAS_WaterDrops_02	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_WaterDrops_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientEmitters\One-Shot\Waterdrops\BAS_WaterDrops_02		39008
+

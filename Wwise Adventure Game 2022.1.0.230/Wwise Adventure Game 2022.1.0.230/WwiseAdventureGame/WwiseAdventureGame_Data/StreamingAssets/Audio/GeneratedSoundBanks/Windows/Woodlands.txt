@@ -1,0 +1,13 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1049266392	Ambient_Region_Woodlands			\Default Work Unit\Ambient\Ambient_Region_Woodlands	
+	1934835592	Ambient_Waterfall			\Default Work Unit\3DEmitters\Continuous\Ambient_Waterfall	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	207908541	Time_of_Day			\Default Work Unit\Time_of_Day	
+	1333239961	MenuSlider_Master_Volume			\Default Work Unit\MenuSlider_Master_Volume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	171130725	BAS_Waterfall	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_Waterfall_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientEmitters\AmbientEmitters\BAS_Waterfall		768096
+	189300013	amb_forest_night_background_loop_02	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\amb_forest_night_background_loop_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientBackground\amb_forest_night_background_loop_02		4343896
+	701958626	BAS_amb_forest_day_background_loop_01	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_amb_forest_day_background_loop_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientBackground\BAS_amb_forest_day_background_loop_01		27990112
+

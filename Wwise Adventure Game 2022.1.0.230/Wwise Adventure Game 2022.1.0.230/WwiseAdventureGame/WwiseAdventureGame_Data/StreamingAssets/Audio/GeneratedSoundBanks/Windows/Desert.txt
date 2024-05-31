@@ -1,0 +1,13 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2541270269	Destruction_VolcanicBoulder_Impact			\Default Work Unit\Destruction\Destruction_VolcanicBoulder_Impact	
+	3408705206	Ambient_Region_Desert			\Default Work Unit\Ambient\Ambient_Region_Desert	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	207908541	Time_of_Day			\Default Work Unit\Time_of_Day	
+	1333239961	MenuSlider_Master_Volume			\Default Work Unit\MenuSlider_Master_Volume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	440075764	BAS_amb_desert_night_background_loop_01	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_amb_desert_night_background_loop_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientBackground\BAS_amb_desert_night_background_loop_01		11931232
+	496506321	BAS_amb_desert_day_background_loop_01	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_amb_desert_day_background_loop_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientBackground\BAS_amb_desert_day_background_loop_01		21299296
+	966282370	Explosion	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\Explosion_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\Destruction\Boulder\Explosion		768160
+

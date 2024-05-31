@@ -1,0 +1,17 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2208964750	Ambient_Windmill			\Default Work Unit\3DEmitters\Continuous\Ambient_Windmill	
+	2258053876	Ambient_River			\Default Work Unit\3DEmitters\Continuous\Ambient_River	
+	2752753183	Ambient_Region_Village			\Default Work Unit\Ambient\Ambient_Region_Village	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	207908541	Time_of_Day			\Default Work Unit\Time_of_Day	
+	1333239961	MenuSlider_Master_Volume			\Default Work Unit\MenuSlider_Master_Volume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	6095406	BAS_Water_River	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_Water_River_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientEmitters\AmbientEmitters\BAS_Water_River		3072160
+	209212106	BAS_amb_village_night_background_loop_01	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_amb_village_night_background_loop_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientBackground\BAS_amb_village_night_background_loop_01		23457888
+	636613097	BAS_amb_village_day_background_loop_01	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_amb_village_day_background_loop_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientBackground\BAS_amb_village_day_background_loop_01		28801120
+	717980527	BAS_WindMillBlade_01	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_WindMillBlade_01_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientEmitters\AmbientEmitters\BAS_WindMillBlade_01		1622112
+	849087337	BAS_WindMillBlade_02	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_WindMillBlade_02_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientEmitters\AmbientEmitters\BAS_WindMillBlade_02		1163360
+	1036572937	BAS_WindMillBlade_03	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_WindMillBlade_03_D79FB2B7.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientEmitters\AmbientEmitters\BAS_WindMillBlade_03		352352
+

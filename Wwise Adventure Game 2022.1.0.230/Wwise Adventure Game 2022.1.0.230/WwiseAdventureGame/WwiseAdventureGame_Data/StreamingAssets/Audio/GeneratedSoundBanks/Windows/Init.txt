@@ -1,0 +1,53 @@
+State Group	ID	Name			Wwise Object Path	Notes
+	2106907484	Music_Regions			\Default Work Unit\Music_Regions	
+
+State	ID	Name	State Group			Notes
+	608898761	Dungeon	Music_Regions			
+	748895195	None	Music_Regions			
+	1421251628	Woodlands	Music_Regions			
+	1850388778	Desert	Music_Regions			
+	3132368115	WwizardHouse	Music_Regions			
+	3160623154	Silent	Music_Regions			
+	3424056949	Nowhere	Music_Regions			
+	3945572659	Village	Music_Regions			
+	4122393694	Cave	Music_Regions			
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	504532776	Brick			\Factory Acoustic Textures\Textures\Brick	
+	513139656	Mountain			\Factory Acoustic Textures\Textures\Mountain	
+	841620460	Concrete			\Factory Acoustic Textures\Textures\Concrete	
+	1755085759	Wood_Deep			\Factory Acoustic Textures\Textures\Wood_Deep	
+	1873957695	Anechoic			\Factory Acoustic Textures\Textures\Anechoic	
+	1970351858	Fabric			\Factory Acoustic Textures\Textures\Fabric	
+	2058049674	Wood			\Factory Acoustic Textures\Textures\Wood	
+	2412606308	Carpet			\Factory Acoustic Textures\Textures\Carpet	
+	2637588553	Tile			\Factory Acoustic Textures\Textures\Tile	
+	2928161104	Curtains			\Factory Acoustic Textures\Textures\Curtains	
+	3195498748	Cork_Tiles			\Factory Acoustic Textures\Textures\Cork_Tiles	
+	3670307564	Drywall			\Factory Acoustic Textures\Textures\Drywall	
+	4168643977	Acoustic_Banner			\Factory Acoustic Textures\Textures\Acoustic_Banner	
+	4262522749	Wood_Bright			\Factory Acoustic Textures\Textures\Wood_Bright	
+
+Audio Bus	ID	Name			Wwise Object Path	Notes
+	3803692087	Master Audio Bus			\Default Work Unit\Master Audio Bus	
+
+Auxiliary Bus	ID	Name			Wwise Object Path	Notes
+	243931001	Dungeon_Forge			\Default Work Unit\Master Audio Bus\Dungeon_Forge	
+	425911480	Dungeon_Library_Statue			\Default Work Unit\Master Audio Bus\Dungeon_Library_Statue	
+	567469275	Dungeon_PathToForge			\Default Work Unit\Master Audio Bus\Dungeon_PathToForge	
+	1074812275	Dungeon_PathToCore			\Default Work Unit\Master Audio Bus\Dungeon_PathToCore	
+	1156828694	Dungeon_Entrance			\Default Work Unit\Master Audio Bus\Dungeon_Entrance	
+	1941785149	Dungeon_Library			\Default Work Unit\Master Audio Bus\Dungeon_Library	
+	2026127448	Dungeon_MezzanineRoomEntrance			\Default Work Unit\Master Audio Bus\Dungeon_MezzanineRoomEntrance	
+	2213850905	Dungeon_Core			\Default Work Unit\Master Audio Bus\Dungeon_Core	
+	3352684520	CaveEntrance			\Default Work Unit\Master Audio Bus\CaveEntrance	
+	4122393694	Cave			\Default Work Unit\Master Audio Bus\Cave	
+	4158999182	Dungeon_MezzanineRoom			\Default Work Unit\Master Audio Bus\Dungeon_MezzanineRoom	
+
+Effect plug-ins	ID	Name	Type				Notes
+	1159390747	Room_Medium_Tiled	Wwise RoomVerb			
+
+Audio Devices	ID	Name	Type				Notes
+	2317455096	No_Output	No Output			
+	3859886410	System	System			
+

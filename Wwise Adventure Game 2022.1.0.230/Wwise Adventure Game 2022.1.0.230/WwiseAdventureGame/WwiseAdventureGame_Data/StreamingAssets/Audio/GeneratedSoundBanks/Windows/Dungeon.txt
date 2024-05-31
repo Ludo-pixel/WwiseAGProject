@@ -1,0 +1,16 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1999886838	Destruction_Rock_Destroy			\Default Work Unit\Destruction\Destruction_Rock_Destroy	
+	4077685701	Ambient_Region_Dungeon			\Default Work Unit\Ambient\Ambient_Region_Dungeon	
+
+Game Parameter	ID	Name			Wwise Object Path	Notes
+	1333239961	MenuSlider_Master_Volume			\Default Work Unit\MenuSlider_Master_Volume	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	438350646	BAS_Destroy_Wood_03	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_Destroy_Wood_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\Destruction\RockDestroy\BAS_Destroy_Wood_03		132284
+	597134997	BAS_Destroy_Rock_02	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_Destroy_Rock_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\Destruction\RockDestroy\BAS_Destroy_Rock_02		119904
+	600902152	BAS_Destroy_Wood_01	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_Destroy_Wood_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\Destruction\RockDestroy\BAS_Destroy_Wood_01		124000
+	669615970	BAS_Destroy_Wood_02	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_Destroy_Wood_02_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\Destruction\RockDestroy\BAS_Destroy_Wood_02		77920
+	792611389	BAS_amb_dungeon_day_background_loop_01	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_amb_dungeon_day_background_loop_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\AmbientBackground\BAS_amb_dungeon_day_background_loop_01		24641632
+	886932148	BAS_Destroy_Rock_01	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_Destroy_Rock_01_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\Destruction\RockDestroy\BAS_Destroy_Rock_01		105568
+	1021374836	BAS_Destroy_Rock_03	D:\GRADO\GRADO\3roCARRERA\AudioDigital\WWISE\WwiseAGProject\WwiseAdventureGame\.cache\Windows\SFX\BAS_Destroy_Rock_03_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\MasterMixer\Toto Work Unit\Destruction\RockDestroy\BAS_Destroy_Rock_03		87136
+
