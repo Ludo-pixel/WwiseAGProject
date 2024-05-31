@@ -138,7 +138,7 @@
 								<Action Name="" ID="{FD4B48CA-79D8-4026-9C71-B2716389506B}" ShortID="533914717">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="BAS_amb_cave_background_LP" ID="{AE7DFC0C-E147-4457-964E-F53218A32D6F}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
+											<ObjectRef Name="BAS_amb_cave_background_LP" ID="{8240C63F-3068-4D27-B404-CD90543FBCA3}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -149,14 +149,14 @@
 								<Action Name="" ID="{C76EEA5C-DD84-4BD3-9BA4-4EE3041DA142}" ShortID="894693985">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="BAS_amb_desert_day_background_loop_01" ID="{67A86F3C-81E7-47C3-B866-9A8B5513C6EA}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
+											<ObjectRef Name="BAS_amb_desert_day_background_loop_01" ID="{73BD89D1-04D4-4AC5-B9BB-0BE16BE77D08}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 								<Action Name="" ID="{B14DDB68-432C-4B1A-B559-E79FA35958FF}" ShortID="265396377">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="BAS_amb_desert_night_background_loop_01" ID="{3109C96E-3AF0-4C88-956B-8C60DF60BBB7}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
+											<ObjectRef Name="BAS_amb_desert_night_background_loop_01" ID="{C6074A91-2F55-4F82-924A-C8A45DB7C6FD}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -167,7 +167,7 @@
 								<Action Name="" ID="{EC8EECCA-0ADB-41FD-A17E-A96715E052B1}" ShortID="146206680">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="BAS_amb_dungeon_day_background_loop_01" ID="{36B33F26-0362-4DDF-904F-BE22E4397508}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
+											<ObjectRef Name="BAS_amb_dungeon_day_background_loop_01" ID="{9D3A0E07-052E-463B-9927-B19D6DB8305E}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -178,7 +178,7 @@
 								<Action Name="" ID="{DAB4B476-0665-4605-A6C2-A9EB64B08F1E}" ShortID="552630458">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="BAS_amb_pineforest_night_background_loop_01" ID="{8C24792D-5922-414D-AB99-7AC752536BF4}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
+											<ObjectRef Name="BAS_amb_pineforest_night_background_loop_01" ID="{ED750BBB-A0DC-494E-BB7D-75B8E8A62F4C}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -189,14 +189,14 @@
 								<Action Name="" ID="{F5BB387C-C5A5-4364-91E3-2E752518EC52}" ShortID="765361995">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="BAS_amb_village_day_background_loop_01" ID="{45192EC9-0F90-4DF5-BEA9-701B8701CCB1}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
+											<ObjectRef Name="BAS_amb_village_day_background_loop_01" ID="{E0670A14-CF40-499B-826F-FBCA981E7FE7}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 								<Action Name="" ID="{A4455875-87D3-42C5-862B-B63B7F04AE39}" ShortID="319800916">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="BAS_amb_village_night_background_loop_01" ID="{B87A0561-F5C5-40FB-8AC5-156C0F371100}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
+											<ObjectRef Name="BAS_amb_village_night_background_loop_01" ID="{0226F4D0-26FB-4306-89F8-2A5FCD836E96}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
@@ -207,14 +207,14 @@
 								<Action Name="" ID="{FE28A8AC-0E11-4513-B353-4CB885310F6D}" ShortID="318485698">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="BAS_amb_forest_day_background_loop_01" ID="{664DDF6D-ED02-41F9-9A2A-C66AB3CDF10C}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
+											<ObjectRef Name="BAS_amb_forest_day_background_loop_01" ID="{F8603EDF-9C44-4DE6-B2AE-FD9AB449C7D6}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>
 								<Action Name="" ID="{B03F031F-0600-450A-8F38-4DB1C24D5620}" ShortID="572379026">
 									<ReferenceList>
 										<Reference Name="Target">
-											<ObjectRef Name="amb_forest_night_background_loop_02" ID="{83EFF5BD-C813-421E-A234-9200DBD0F0F2}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
+											<ObjectRef Name="amb_forest_night_background_loop_02" ID="{9ECE87A8-96D3-4975-BF2A-1392337E493F}" WorkUnitID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}"/>
 										</Reference>
 									</ReferenceList>
 								</Action>

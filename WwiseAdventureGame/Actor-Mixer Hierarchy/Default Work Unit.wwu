@@ -1,6 +1,62 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{721C8829-AE23-47ED-BD26-4FB7B96CB43B}" SchemaVersion="110">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{721C8829-AE23-47ED-BD26-4FB7B96CB43B}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{721C8829-AE23-47ED-BD26-4FB7B96CB43B}" PersistMode="Standalone">
+			<ChildrenList>
+				<ActorMixer Name="MasterMixer" ID="{50A98F49-5B50-4077-83FE-7E20B16851E2}" ShortID="555139454">
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{995DBE58-86E5-4A96-85D3-EB7A1A08E35C}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{21A75667-A847-43BE-A0CA-61EA7A8A1058}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<WorkUnit Name="Toto Work Unit" ID="{5081B69A-ED6C-45B9-8D84-E8DB2AD835CB}" PersistMode="Reference"/>
+						<WorkUnit Name="Victor Work Unit" ID="{A3486463-C531-480F-B666-7A42B99AFBDF}" PersistMode="Reference"/>
+					</ChildrenList>
+					<ObjectLists>
+						<ObjectList Name="RTPC">
+							<Reference>
+								<Local>
+									<RTPC Name="" ID="{A256AC59-D903-47BB-943B-64F818B20C1E}" ShortID="958400544">
+										<PropertyList>
+											<Property Name="PropertyName" Type="string" Value="Volume"/>
+										</PropertyList>
+										<ReferenceList>
+											<Reference Name="ControlInput">
+												<ObjectRef Name="MenuSlider_Master_Volume" ID="{044D1BB2-02C7-477E-8D74-A1E4C0F231A7}" WorkUnitID="{A904C79D-2B29-4D8D-831D-90506AF43514}"/>
+											</Reference>
+											<Reference Name="Curve">
+												<Custom>
+													<Curve Name="" ID="{D222C997-B36C-4F97-8F30-D519BEB06A22}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="3"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>-200</YPos>
+																<Flags>5</Flags>
+															</Point>
+															<Point>
+																<XPos>100</XPos>
+																<YPos>0</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</Custom>
+											</Reference>
+										</ReferenceList>
+									</RTPC>
+								</Local>
+							</Reference>
+						</ObjectList>
+					</ObjectLists>
+				</ActorMixer>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>

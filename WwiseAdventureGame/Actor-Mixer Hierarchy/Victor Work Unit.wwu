@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<WwiseDocument Type="WorkUnit" ID="{A3486463-C531-480F-B666-7A42B99AFBDF}" SchemaVersion="110">
+<WwiseDocument Type="WorkUnit" ID="{A3486463-C531-480F-B666-7A42B99AFBDF}" SchemaVersion="110" RootDocumentID="{721C8829-AE23-47ED-BD26-4FB7B96CB43B}" ParentDocumentID="{721C8829-AE23-47ED-BD26-4FB7B96CB43B}">
 	<AudioObjects>
-		<WorkUnit Name="Victor Work Unit" ID="{A3486463-C531-480F-B666-7A42B99AFBDF}" PersistMode="Standalone">
+		<WorkUnit Name="Victor Work Unit" ID="{A3486463-C531-480F-B666-7A42B99AFBDF}" OwnerID="{50A98F49-5B50-4077-83FE-7E20B16851E2}" PersistMode="Nested">
 			<ChildrenList>
 				<SwitchContainer Name="Materials" ID="{3492A1A1-D43A-42CD-986F-B310A0C5B65A}" ShortID="302388170">
 					<ReferenceList>
