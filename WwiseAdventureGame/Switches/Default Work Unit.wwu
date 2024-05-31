@@ -31,6 +31,17 @@
 						<Switch Name="Hammer" ID="{5D5E745A-59D3-4F6D-8F83-1965AB61A3C5}"/>
 					</ChildrenList>
 				</SwitchGroup>
+				<SwitchGroup Name="Player_Pickup_ItemType" ID="{6C9F2162-292C-4756-B06B-DD85C3BCC3CF}">
+					<ChildrenList>
+						<Switch Name="Book" ID="{503F9963-4762-4211-A7F3-0CE577AA010C}"/>
+						<Switch Name="CrystalShard" ID="{6CAE9906-5CC6-4B60-BF78-81AA7898FD7A}"/>
+						<Switch Name="EvilEssence" ID="{93369208-55F3-4FE0-B286-42670E8BE2A1}"/>
+						<Switch Name="Key" ID="{4BEEBDEA-F7B0-4C2C-9BB7-8999EF209120}"/>
+						<Switch Name="PineCone" ID="{72D50313-941A-4C2D-A318-23EAA0064195}"/>
+						<Switch Name="Mushroom" ID="{B8E62B93-660B-4004-AD78-84B8330B3232}"/>
+						<Switch Name="Misc" ID="{993FDCA8-7C5B-4273-B7D5-F43C73CF3F55}"/>
+					</ChildrenList>
+				</SwitchGroup>
 			</ChildrenList>
 		</WorkUnit>
 	</Switches>

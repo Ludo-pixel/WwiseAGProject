@@ -4,7 +4,27 @@
 		<WorkUnit Name="Default Work Unit" ID="{A904C79D-2B29-4D8D-831D-90506AF43514}" PersistMode="Standalone">
 			<ChildrenList>
 				<GameParameter Name="Player_MovementSpeed" ID="{89AC586D-97F9-463C-956E-A7D3B9469DF7}"/>
-				<GameParameter Name="Time_of_Day" ID="{D9842EA4-C08F-43C8-95FE-6F0C1881C679}"/>
+				<GameParameter Name="Time_of_Day" ID="{D9842EA4-C08F-43C8-95FE-6F0C1881C679}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="12"/>
+						<Property Name="Max" Type="Real64" Value="24"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="CombatLevel" ID="{B954C667-5E93-4888-B9FB-9937DCC4F119}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+						<Property Name="Max" Type="Real64" Value="10"/>
+					</PropertyList>
+				</GameParameter>
+				<GameParameter Name="Enemy_EvilHead_MovementSpeed" ID="{9092830E-6761-4732-8565-3D8D9045FE5A}"/>
+				<GameParameter Name="Enemy_Music_EvilCrawler" ID="{614BDDCF-902F-4129-971D-7510AE790142}"/>
+				<GameParameter Name="Enemy_Music_EvilHead" ID="{63B02BAA-6C4C-49CE-8CCD-4A91701A8E53}"/>
+				<GameParameter Name="Enemy_Music_EvitSpitPlant" ID="{80B66794-ED89-48D1-898D-392FAD56E791}"/>
+				<GameParameter Name="InMenu_LowPass" ID="{E7EFB5AA-0A65-4114-A938-DDF6E2EF5F70}"/>
+				<GameParameter Name="MenuSlider_Master_Volume" ID="{044D1BB2-02C7-477E-8D74-A1E4C0F231A7}"/>
+				<GameParameter Name="MenuSlider_Music_Volume" ID="{7FA726EF-380A-4FB6-81C3-058DB30BE644}"/>
+				<GameParameter Name="Player_Health" ID="{ED22436B-E224-4D3B-BB49-1A22BB5FF4E6}"/>
+				<GameParameter Name="Magic_ChargeIntensity" ID="{0B0BAAA5-0B77-42FA-8482-3A16E1F8C716}"/>
 			</ChildrenList>
 		</WorkUnit>
 	</GameParameters>
